@@ -21,7 +21,8 @@ def base_price
   @quantity * @item_price
 end
 ```
-## Another example
+### Second example
+#### Initial
 ```ruby
 def price
   base_price = @quantity * @item_price

@@ -1,5 +1,6 @@
 ## Extract Method
 [back](https://github.com/manelromero/refactoring/blob/master/README.md)
+### No local variables
 #### Initial
 ```ruby
 def print_owing
@@ -43,6 +44,7 @@ def print_banner
   puts "*************************"
 end
 ```
+### Using local variables
 #### Next
 ```ruby
 def print_owing
@@ -69,7 +71,8 @@ def print_details(outstanding)
   puts "amount: #{outstanding}"
 end
 ```
-#### Next
+### Reassigning a local variable
+#### Initial
 ```ruby
 def print_owing
   print_banner

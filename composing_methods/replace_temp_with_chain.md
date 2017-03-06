@@ -1,5 +1,6 @@
 ## Replace Temp With Chain
 [back](https://github.com/manelromero/refactoring/blob/master/README.md)
+#### Initial
 ```ruby
 mock = Mock.new
 expectation = mock.expects(:a_method_name)
@@ -11,7 +12,8 @@ expectation.returns([1, :array])
 mock = Mock.new
 mock.expects(:a_method_name).with("arguments").returns([1, :array])
 ```
-#### Next
+### Second example
+#### Initial
 ```ruby
 class Select
   def options
