@@ -6,6 +6,7 @@ Code examples from the book [Refactoring Ruby Edition](https://leer.amazon.es/kp
 - [Inline Method](https://github.com/manelromero/refactoring/blob/master/composing_methods/inline_method.md)
 - [Inline Temp](https://github.com/manelromero/refactoring/blob/master/composing_methods/inline_temp.md)
 - [Replace Temp With Query](https://github.com/manelromero/refactoring/blob/master/composing_methods/replace_temp_with_query.md)
+- [Replace Temp With Chain](https://github.com/manelromero/refactoring/blob/master/composing_methods/replace_temp_with_chain.md)
 - [Introduce Explaining Variable](https://github.com/manelromero/refactoring/blob/master/composing_methods/introduce_explaining_variable.md)
 - [Split Temporary Variable](https://github.com/manelromero/refactoring/blob/master/composing_methods/split_temporary_variable.md)
 - [Remove Assignments to Parameters](https://github.com/manelromero/refactoring/blob/master/composing_methods/remove_assignments_to_parameters.md)
