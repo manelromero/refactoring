@@ -51,15 +51,15 @@ Code examples from the book [Refactoring Ruby Edition](https://leer.amazon.es/kp
 - [Eagerly Initialized Attribute](https://github.com/manelromero/refactoring/blob/master/organizing_data/eagerly_initialized_attribute.md)
 
 ## Simplifying Conditional Expressions
-- [Decompose Conditional](https://github.com/manelromero/refactoring/blob/master/organizing_data/decompose_conditional.md)
-- [Recompose Conditional](https://github.com/manelromero/refactoring/blob/master/organizing_data/recompose_conditional.md)
-- [Consolidate Conditional Expression](https://github.com/manelromero/refactoring/blob/master/organizing_data/consolidate_conditional_expression.md)
-- [Consolidate Duplicate Conditional Fragments](https://github.com/manelromero/refactoring/blob/master/organizing_data/consolidate_duplicate_conditional_fragments.md)
-- [Remove Control Flag](https://github.com/manelromero/refactoring/blob/master/organizing_data/remove_control_flag.md)
-- [Replace Nested Conditional with Guard Clauses](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_nested_conditional_with_guard_clauses.md)
-- [Replace Conditional with Polymorphism](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_conditional_with_polymorphism.md)
-- [Introduce Null Object](https://github.com/manelromero/refactoring/blob/master/organizing_data/introduce_null_object.md)
-- [Introduce Assertion](https://github.com/manelromero/refactoring/blob/master/organizing_data/introduce_assertion.md)
+- [Decompose Conditional](https://github.com/manelromero/refactoring/blob/master/simplifying_conditional_expressions/decompose_conditional.md)
+- [Recompose Conditional](https://github.com/manelromero/refactoring/blob/master/simplifying_conditional_expressions/recompose_conditional.md)
+- [Consolidate Conditional Expression](https://github.com/manelromero/refactoring/blob/master/simplifying_conditional_expressions/consolidate_conditional_expression.md)
+- [Consolidate Duplicate Conditional Fragments](https://github.com/manelromero/refactoring/blob/master/simplifying_conditional_expressions/consolidate_duplicate_conditional_fragments.md)
+- [Remove Control Flag](https://github.com/manelromero/refactoring/blob/master/simplifying_conditional_expressions/remove_control_flag.md)
+- [Replace Nested Conditional with Guard Clauses](https://github.com/manelromero/refactoring/blob/master/simplifying_conditional_expressions/replace_nested_conditional_with_guard_clauses.md)
+- [Replace Conditional with Polymorphism](https://github.com/manelromero/refactoring/blob/master/simplifying_conditional_expressions/replace_conditional_with_polymorphism.md)
+- [Introduce Null Object](https://github.com/manelromero/refactoring/blob/master/simplifying_conditional_expressions/introduce_null_object.md)
+- [Introduce Assertion](https://github.com/manelromero/refactoring/blob/master/simplifying_conditional_expressions/introduce_assertion.md)
 
 ## Making Method Calls Simpler
 
