@@ -42,7 +42,7 @@ Code examples from the book [Refactoring Ruby Edition](https://leer.amazon.es/kp
 - [Change Bidirectional Association to Unidirectional](https://github.com/manelromero/refactoring/blob/master/organizing_data/change_bidirectional_association_to_unidirectional.md)
 - [Replace Magic Number with Symbolic Constant](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_magic_number_with_symbolic_constant.md)
 - [Encapsulate Collection](https://github.com/manelromero/refactoring/blob/master/organizing_data/encapsulate_collection.md)
-- [Replace Record with Data Class](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_recored_with_data_class.md)
+- [Replace Record with Data Class](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_record_with_data_class.md)
 - [Replace Type Code with Polymorphism](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_type_code_with_polymorphism.md)
 - [Replace Type Code with Module Extension](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_type_code_with_module_extension.md)
 - [Replace Type Code with State/Strategy](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_type_code_with_state_strategy.md)
@@ -51,6 +51,15 @@ Code examples from the book [Refactoring Ruby Edition](https://leer.amazon.es/kp
 - [Eagerly Initialized Attribute](https://github.com/manelromero/refactoring/blob/master/organizing_data/eagerly_initialized_attribute.md)
 
 ## Simplifying Conditional Expressions
+- [Decompose Conditional](https://github.com/manelromero/refactoring/blob/master/organizing_data/decompose_conditional.md)
+- [Recompose Conditional](https://github.com/manelromero/refactoring/blob/master/organizing_data/recompose_conditional.md)
+- [Consolidate Conditional Expression](https://github.com/manelromero/refactoring/blob/master/organizing_data/consolidate_conditional_expression.md)
+- [Consolidate Duplicate Conditional Fragments](https://github.com/manelromero/refactoring/blob/master/organizing_data/consolidate_duplicate_conditional_fragments.md)
+- [Remove Control Flag](https://github.com/manelromero/refactoring/blob/master/organizing_data/remove_control_flag.md)
+- [Replace Nested Conditional with Guard Clauses](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_nested_conditional_with_guard_clauses.md)
+- [Replace Conditional with Polymorphism](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_conditional_with_polymorphism.md)
+- [Introduce Null Object](https://github.com/manelromero/refactoring/blob/master/organizing_data/introduce_null_object.md)
+- [Introduce Assertion](https://github.com/manelromero/refactoring/blob/master/organizing_data/introduce_assertion.md)
 
 ## Making Method Calls Simpler
 
