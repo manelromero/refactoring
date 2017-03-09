@@ -80,3 +80,14 @@ Code examples from the book [Refactoring Ruby Edition](https://leer.amazon.es/kp
 - [Introduce Expression Builder](https://github.com/manelromero/refactoring/blob/master/making_method_calls_simpler/introduce_expression_builder.md)
 
 ## Dealing with Generalization
+- [Pull Up Method](https://github.com/manelromero/refactoring/blob/master/dealing_with_generalization/pull_up_method.md)
+- [Push Down Method](https://github.com/manelromero/refactoring/blob/master/dealing_with_generalization/push_down_method.md)
+- [Extract Module](https://github.com/manelromero/refactoring/blob/master/dealing_with_generalization/extract_module.md)
+- [Inline Module](https://github.com/manelromero/refactoring/blob/master/dealing_with_generalization/inline_module.md)
+- [Extract Subclass](https://github.com/manelromero/refactoring/blob/master/dealing_with_generalization/extract_subclass.md)
+- [Introduce Inheritance](https://github.com/manelromero/refactoring/blob/master/dealing_with_generalization/introduce_inheritance.md)
+- [Collapse Hierarchy](https://github.com/manelromero/refactoring/blob/master/dealing_with_generalization/collapse_hierarchy.md)
+- [Form Template Method](https://github.com/manelromero/refactoring/blob/master/dealing_with_generalization/form_template_method.md)
+- [Replace Inheritance with Delegation](https://github.com/manelromero/refactoring/blob/master/dealing_with_generalization/replace_inheritance_with_delegation.md)
+- [Replace Delegation with Hierarchy](https://github.com/manelromero/refactoring/blob/master/dealing_with_generalization/replace_delegation_with_hierarchy.md)
+- [Replace Abstract Superclass with Module](https://github.com/manelromero/refactoring/blob/master/dealing_with_generalization/replace_abstract_superclass_with_module.md)
