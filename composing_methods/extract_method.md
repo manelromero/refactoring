@@ -45,7 +45,6 @@ def print_banner
 end
 ```
 ### Using local variables
-#### Next
 ```ruby
 def print_owing
   outstanding = 0.0
@@ -72,7 +71,6 @@ def print_details(outstanding)
 end
 ```
 ### Reassigning a local variable
-#### Initial
 ```ruby
 def print_owing
   print_banner
