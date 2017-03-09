@@ -62,5 +62,21 @@ Code examples from the book [Refactoring Ruby Edition](https://leer.amazon.es/kp
 - [Introduce Assertion](https://github.com/manelromero/refactoring/blob/master/simplifying_conditional_expressions/introduce_assertion.md)
 
 ## Making Method Calls Simpler
+- [Rename Method](https://github.com/manelromero/refactoring/blob/master/making_method_calls_simpler/rename_method.md)
+- [Add Parameter](https://github.com/manelromero/refactoring/blob/master/making_method_calls_simpler/add_parameter.md)
+- [Remove Parameter](https://github.com/manelromero/refactoring/blob/master/making_method_calls_simpler/remove_parameter.md)
+- [Separate Query from Modifier](https://github.com/manelromero/refactoring/blob/master/making_method_calls_simpler/separate_query_from_modifier.md)
+- [Parameterize Method](https://github.com/manelromero/refactoring/blob/master/making_method_calls_simpler/parameterize_method.md)
+- [Replace Parameter with Explicit Methods](https://github.com/manelromero/refactoring/blob/master/making_method_calls_simpler/replace_parameter_with_explicit_methods.md)
+- [Preserve Whole Object](https://github.com/manelromero/refactoring/blob/master/making_method_calls_simpler/preserve_whole_object.md)
+- [Replace Parameter with Method](https://github.com/manelromero/refactoring/blob/master/making_method_calls_simpler/replace_parameter_with_method.md)
+- [Introduce Parameter Object](https://github.com/manelromero/refactoring/blob/master/making_method_calls_simpler/introduce_paramater_object.md)
+- [Remove Setting Method](https://github.com/manelromero/refactoring/blob/master/making_method_calls_simpler/remove_setting_object.md)
+- [Hide Method](https://github.com/manelromero/refactoring/blob/master/making_method_calls_simpler/hide_method.md)
+- [Replace Constructor with Factory Method](https://github.com/manelromero/refactoring/blob/master/making_method_calls_simpler/replace_constructor_with_factory_method.md)
+- [Replace Error Code with Exception](https://github.com/manelromero/refactoring/blob/master/making_method_calls_simpler/replace_error_code_with_exception.md)
+- [Replace Exception with Test](https://github.com/manelromero/refactoring/blob/master/making_method_calls_simpler/replace_exception_with_test.md)
+- [Introduce Gateway](https://github.com/manelromero/refactoring/blob/master/making_method_calls_simpler/introduce_gateway.md)
+- [Introduce Expression Builder](https://github.com/manelromero/refactoring/blob/master/making_method_calls_simpler/introduce_expression_builder.md)
 
 ## Dealing with Generalization
