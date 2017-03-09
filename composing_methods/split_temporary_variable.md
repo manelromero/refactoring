@@ -14,7 +14,6 @@ area = @height * @width
 puts area
 ```
 ### Second example
-#### Initial
 ```ruby
 def distance_traveled(time)
   acc = @primary_force / @mass

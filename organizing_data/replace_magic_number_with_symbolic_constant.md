@@ -1,11 +1,6 @@
-# Inline Temp
+## Replace Magic Number with Symbolic Constant
 [back](https://github.com/manelromero/refactoring/blob/master/README.md)
 ```ruby
-base_price = an_order.base_price
-return (base_price > 1000)
-```
-#### Next
-```ruby
-return (an_order.base_price > 1000)
+some code
 ```
 [back](https://github.com/manelromero/refactoring/blob/master/README.md)

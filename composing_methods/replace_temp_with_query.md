@@ -1,6 +1,5 @@
 ## Replace Temp With Query
 [back](https://github.com/manelromero/refactoring/blob/master/README.md)
-#### Initial
 ```ruby
 base_price = @quantity * @item_price
 if (base_price > 1000)
@@ -22,7 +21,6 @@ def base_price
 end
 ```
 ### Second example
-#### Initial
 ```ruby
 def price
   base_price = @quantity * @item_price

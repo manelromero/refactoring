@@ -1,6 +1,5 @@
 ## Inline Method
 [back](https://github.com/manelromero/refactoring/blob/master/README.md)
-#### Initial
 ```ruby
 def get_rating
   more_than_five_late_deliveries ? 2 : 1

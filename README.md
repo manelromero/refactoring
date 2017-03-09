@@ -32,6 +32,23 @@ Code examples from the book [Refactoring Ruby Edition](https://leer.amazon.es/kp
 - [Remove Middle Man](https://github.com/manelromero/refactoring/blob/master/moving_features_between_objects/remove_middle_man.md)
 
 ## Organizing Data
+- [Self Encapsulated Field](https://github.com/manelromero/refactoring/blob/master/organizing_data/self_encapsulated_field.md)
+- [Replace Data Value with Object](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_data_value_with_object.md)
+- [Change Value to Reference](https://github.com/manelromero/refactoring/blob/master/organizing_data/change_value_to_reference.md)
+- [Change Reference to Value](https://github.com/manelromero/refactoring/blob/master/organizing_data/change_reference_to_value.md)
+- [Replace Array with Object](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_array_with_object.md)
+- [Replace Hash with Object](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_hash_with_object.md)
+- [Change Unidirectional Association to Bidirectional](https://github.com/manelromero/refactoring/blob/master/organizing_data/change_unidirectional_association_to_bidirectional.md)
+- [Change Bidirectional Association to Unidirectional](https://github.com/manelromero/refactoring/blob/master/organizing_data/change_bidirectional_association_to_unidirectional.md)
+- [Replace Magic Number with Symbolic Constant](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_magic_number_with_symbolic_constant.md)
+- [Encapsulate Collection](https://github.com/manelromero/refactoring/blob/master/organizing_data/encapsulate_collection.md)
+- [Replace Record with Data Class](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_recored_with_data_class.md)
+- [Replace Type Code with Polymorphism](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_type_code_with_polymorphism.md)
+- [Replace Type Code with Module Extension](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_type_code_with_module_extension.md)
+- [Replace Type Code with State/Strategy](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_type_code_with_state_strategy.md)
+- [Replace Subclass with Fields](https://github.com/manelromero/refactoring/blob/master/organizing_data/replace_subclass_with_fields.md)
+- [Lazily Initialized Attribute](https://github.com/manelromero/refactoring/blob/master/organizing_data/lazily_initialized_attribute.md)
+- [Eagerly Initialized Attribute](https://github.com/manelromero/refactoring/blob/master/organizing_data/eagerly_initialized_attribute.md)
 
 ## Simplifying Conditional Expressions
 

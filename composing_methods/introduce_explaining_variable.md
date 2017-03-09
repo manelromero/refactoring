@@ -1,6 +1,5 @@
 ## Introduce Explaining Variable
 [back](https://github.com/manelromero/refactoring/blob/master/README.md)
-#### Initial
 ```ruby
 if (platform.upcase.index("MAC") &&
   browser.upcase.index("IE") &&
@@ -21,7 +20,6 @@ if (is_mac_os && is_ie_browser && initialized? && was_resized)
 end
 ```
 ### Second example
-#### Initial
 ```ruby
 def price
   # price is base price - quantity discount + shipping

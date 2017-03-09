@@ -1,7 +1,6 @@
 ## Extract Method
 [back](https://github.com/manelromero/refactoring/blob/master/README.md)
 ### No local variables
-#### Initial
 ```ruby
 def print_owing
   outstanding = 0.0
