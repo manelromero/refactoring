@@ -14,6 +14,7 @@ if not_summer(date)
 else
   charge = summer_charge(quantity)
 end
+
 def not_summer(date)
   date < SUMMER_START || date > SUMMER_END
 end
