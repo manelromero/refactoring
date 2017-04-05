@@ -23,8 +23,8 @@ class Person
       end
     end
   end
-  attrs_with_empty_predicate :name, :age
 
+  attrs_with_empty_predicate :name, :age
 end
 ```
 [back](https://github.com/manelromero/refactoring/blob/master/README.md)

@@ -44,9 +44,7 @@ class MessageCollector
     self
   end
 end
-```
-#### Next
-```ruby
+
 class Recorder
   def play_for(obj)
     @message_collector.messages.inject(obj) do |result, message|
